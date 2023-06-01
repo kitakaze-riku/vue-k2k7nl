@@ -31,6 +31,7 @@ export default {
 <style scoped>
 .l-first {
   background: lightgray;
+  border-radius: 10px;
 }
 .music-box {
   color: white;

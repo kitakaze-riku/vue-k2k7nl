@@ -24,6 +24,7 @@ export default {
 <style scoped>
 .l-second {
   background: pink;
+  border-radius: 10px;
 }
 p {
   color: white;
